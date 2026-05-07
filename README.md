@@ -77,6 +77,8 @@ Download the latest APK from the [`App/`](https://github.com/cajx-it/Gcah-Paymen
 
 > ⚠️ You may need to enable **"Install from unknown sources"** on your Android device:
 > Settings → Security → Enable "Unknown sources" or "Install unknown apps"
+> Then grant the Notification Access
+
 
 Install the APK on your Android device by opening the downloaded file.
 
